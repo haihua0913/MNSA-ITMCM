@@ -21,7 +21,7 @@
 
 
 ## Citation
-
+```
 @article{WANG2024101587,
 title = {An effective framework for measuring the novelty of scientific articles through integrated topic modeling and cloud model},
 journal = {Journal of Informetrics},
@@ -35,9 +35,9 @@ url = {https://www.sciencedirect.com/science/article/pii/S1751157724000993},
 author = {Zhongyi Wang and Haoxuan Zhang and Jiangping Chen and Haihua Chen},
 keywords = {Novelty measurement, Cloud model, Topic modeling, BERTopic}
 }
-
+```
 For the dataset, please cite:
-
+```
 @article{10.1016/j.jksuci.2024.102119,
 author = {Wang, Zhongyi and Zhang, Haoxuan and Chen, Haihua and Feng, Yunhe and Ding, Junhua},
 title = {Content-based quality evaluation of scientific papers using coarse feature and knowledge entity network},
@@ -54,4 +54,4 @@ journal = {J. King Saud Univ. Comput. Inf. Sci.},
 month = jul,
 keywords = {Paper quality evaluation, Knowledge entity, Network analysis, Machine learning, Novelty, Structural entropy}
 }
-
+```
